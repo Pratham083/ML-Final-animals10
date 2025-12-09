@@ -14,7 +14,7 @@ const MODELS = [
   },
   {
     id: "model3",
-    name: "Model 3 – MobileNetV3 (friend’s model)",
+    name: "Model 3 – MobileNetV3",
     description: "MobileNetV3 model trained by teammate and exported as ONNX."
   },
 ];
